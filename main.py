@@ -14,6 +14,7 @@ if __name__ == '__main__':
     print("Hi Zelimkhan")
     print("Hi Yandex")
     print("i edit this project")
+    print("one, two, three, four")
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
